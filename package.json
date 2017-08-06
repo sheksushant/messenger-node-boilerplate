@@ -1,0 +1,19 @@
+{
+  "name": "messenger-node-boilerplate",
+  "version": "1.0.0",
+  "description": "A NodeJS BoilerPlate for Facebook Messenger Bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantshekhar20/messenger-node-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantshekhar20/messenger-node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sushantshekhar20/messenger-node-boilerplate#readme"
+}
